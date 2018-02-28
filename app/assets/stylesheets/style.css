@@ -34,6 +34,8 @@ Table of contents
 
 */
 
+
+
 /* ===================================
     Google font
 ====================================== */
@@ -3696,16 +3698,17 @@ aside .latest-post li figure {width: 75px;}
 .content-right-slider .swiper-button-next {right: 70px;}
 .content-right-slider .swiper-button-prev  {left: 70px;}
 
+/* Color Gooooods */
 /* home - creative designer */
 .color-code {justify-content: space-around; align-items: center; z-index: 0;}
-.bg-background-fade {background-color: #ff5851}
+.bg-background-fade {background-color: #90ca6d}
 .color-1, .color-2, .color-3, .color-4, .color-5 {-webkit-transition: background-color 700ms linear; -moz-transition: background-color 700ms linear; -o-transition: background-color 700ms linear; -ms-transition: background-color 700ms linear; transition: background-color 700ms linear; }
-.color-1 {background-color: #ff5851;}
-.color-2 {background-color: #e86618;}
-.color-3 {background-color: #ef3158;}
-.color-4 {background-color: #6b0990;}
-.color-5 {background-color: #4c0990;}
-.color-6 {background-color: #1b3194;}
+.color-1 {background-color: #90ca6d;}
+.color-2 {background-color: #abe18b;}
+.color-3 {background-color: #88FF9B;}
+.color-4 {background-color: #76E8A7;}
+.color-5 {background-color: #7EFFD9;}
+.color-6 {background-color: #ACF7FF;}
 
 /* home - classic web agency */
 .after-before-separator:before, .after-before-separator:after {width: 35px; margin: 0 15px; height: 1px; background: rgba(255,255,255,.2); content: ""; display: inline-block; vertical-align: super;}
